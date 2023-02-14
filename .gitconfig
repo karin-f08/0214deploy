@@ -1,0 +1,10 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = karin-f08
+	email = calin.coling@gmail.com
+[init]
+	defaultBranch = main
